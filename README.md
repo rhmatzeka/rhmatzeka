@@ -96,7 +96,6 @@
 
 <img src="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/snake.svg">
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph-dark.svg">
@@ -104,4 +103,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
