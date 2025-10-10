@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "* */1 * * *"
 
   workflow_dispatch:
 
@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 5
 
     steps:
       - name: generate pacman-contribution-graph.svg
