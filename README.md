@@ -95,6 +95,7 @@
 ###
 
 <img alt="snake" src="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/snake.svg">
+ <img alt="pacman" src="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph.svg">
 
 ###
 
