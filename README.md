@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahmat Eka Satria and I'm a Web2 Developer & Web3 Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Rahmat Eka Satria and I'm a Fullstack Developer & Web3 Developer, from Indonesia</h2>
 
 ###
 
