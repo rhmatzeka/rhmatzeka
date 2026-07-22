@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f766e,100:22d3ee&text=RAHMAT%20EKA%20SATRIA&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=FULL-STACK%20%7C%20WEB3%20%7C%20AI%20BUILDER&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Rahmat Eka Satria banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,45:0e7490,100:22d3ee&text=RAHMAT%20EKA%20SATRIA&fontColor=f8fafc&fontSize=40&fontAlignY=44&desc=FULL-STACK%20%E2%80%A2%20WEB3%20%E2%80%A2%20AI%20BUILDER&descAlignY=60&descSize=14&stroke=22d3ee&strokeWidth=1&animation=fadeIn" width="100%" alt="Rahmat Eka Satria banner" />
 
 <a href="https://rahmateka.my.id"><img src="https://img.shields.io/badge/Portfolio-rahmateka.my.id-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/rahmatekasatria/"><img src="https://img.shields.io/badge/LinkedIn-Rahmat_Eka_Satria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
