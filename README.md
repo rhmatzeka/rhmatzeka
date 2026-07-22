@@ -83,7 +83,7 @@ I build modern web applications and explore the intersection of **Web3, AI, and 
 ### Let's build something that matters.
 
 <a href="https://t.me/luwakwhitecofeee"><img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://www.instagram.com/rahmatdev.id/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/rhmat.dev/"><img src="https://img.shields.io/badge/Instagram-rhmat.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram @rhmat.dev" /></a>
 <a href="https://www.youtube.com/@rakatria4923"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
 <br />
