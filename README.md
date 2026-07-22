@@ -1,103 +1,96 @@
-<h2 align="left">Hi 👋! My name is Rahmat Eka Satria I'm a Fullstack  Web3 Developer & Tech Enthusiast.</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f766e,100:22d3ee&text=RAHMAT%20EKA%20SATRIA&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=FULL-STACK%20%7C%20WEB3%20%7C%20AI%20BUILDER&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Rahmat Eka Satria banner" />
 
+<a href="https://rahmateka.my.id"><img src="https://img.shields.io/badge/Portfolio-rahmateka.my.id-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rahmatekasatria/"><img src="https://img.shields.io/badge/LinkedIn-Rahmat_Eka_Satria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:matsganz@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-###
+<br /><br />
 
-<img align="right" height="150" src="https://media1.tenor.com/m/ukwvYi0Olk8AAAAC/sad-anime-guy-lonely-anime-guy.gif"  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&lines=Building+useful+products%2C+from+idea+to+deployment.;Exploring+Web3+across+Solana%2C+EVM%2C+and+Algorand.;Turning+AI+experiments+into+interactive+experiences." alt="Typing introduction" />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/solidity/363636" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="30" alt="polygon logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
 </div>
 
-###
+## `> whoami`
 
-<div align="left">
-  <a href="https://www.youtube.com/@rakatria4923" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rahmatdev.id/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:matsganz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rahmatekasatria/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/rahmat.satria.96780/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/luwakwhitecofeee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+I'm **Rahmat**, an Indonesia-based developer focused on building end-to-end digital products. My repositories span production-minded web apps, information systems, mobile experiments, smart contracts, and AI prototypes.
+
+- Currently building with **TypeScript, Next.js, React, and modern Web3 tooling**
+- Exploring **Solana, Base, Avalanche, Ethereum standards, and Algorand**
+- Experienced in translating real-world needs into attendance, inventory, education, and business systems
+- Interested in **AI agents, generative interfaces, computer vision, and on-chain applications**
+- Open to collaboration on ambitious **full-stack, Web3, and AI products**
+
+## `> stack --list`
+
+<div align="center">
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind&theme=dark" alt="Core technology stack" />
+
+**Web3 & Backend**
+
+<img src="https://skillicons.dev/icons?i=solidity,rust,php,laravel,python,java,kotlin,mysql,postgres,prisma&theme=dark" alt="Web3 and backend technology stack" />
+
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws,gcp,figma&theme=dark" alt="Tools and cloud stack" />
+
 </div>
 
-###
+## `> projects --featured`
 
-<img alt="snake" src="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/outputular/snake.svg">
+<div align="center">
 
-###
+<a href="https://github.com/rhmatzeka/TaniinPlaytoEarn"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=TaniinPlaytoEarn&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="Taniin Play to Earn repository" /></a>
+<a href="https://github.com/rhmatzeka/RekaSolana"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=RekaSolana&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="Reka Solana repository" /></a>
+<a href="https://github.com/rhmatzeka/VibeDesignAI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=VibeDesignAI&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="VibeDesign AI repository" /></a>
+<a href="https://github.com/rhmatzeka/AppAbsensiSDN1Bintaro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=AppAbsensiSDN1Bintaro&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="School attendance application repository" /></a>
+
+</div>
+
+| Project | What it explores | Live |
+| :--- | :--- | :---: |
+| **Taniin Play-to-Earn** | A Web3 game experience connecting gameplay and digital ownership | [Launch](https://taniin.rahmateka.my.id) |
+| **RekaSolana** | A Solana dApp workspace with an Anchor program and a modern web client | [Launch](https://reka-solana-web.vercel.app) |
+| **VibeDesign AI** | An AI-inspired design experience built with Next.js and motion-driven UI | [Launch](https://vibe-design-ai.vercel.app) |
+| **SDN 1 Bintaro Attendance** | A full-stack school attendance system using Next.js, Prisma, and authentication | [Launch](https://absensisdnbintaro01.com) |
+| **Base Mini App** | An on-chain mini app using OnchainKit, Farcaster SDK, wagmi, and viem | [Launch](https://base-miniapp-one.vercel.app) |
+| **Banbuk Store** | A deployed store and inventory-oriented business application | [Launch](https://gudangbanbukscm.web.id) |
+
+## `> github --analytics`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhmatzeka&show_icons=true&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="Rahmat's GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rhmatzeka&hide_border=true&background=0D1117&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Rahmat's GitHub contribution streak" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhmatzeka&layout=compact&langs_count=10&hide_border=true&title_color=22d3ee&text_color=94a3b8&bg_color=0d1117" alt="Most used languages" />
+
+</div>
+
+## `> contribution --play`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph.svg">
 </picture>
 
-##
+<div align="center">
+
+### Let's build something that matters.
+
+<a href="https://t.me/luwakwhitecofeee"><img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.instagram.com/rahmatdev.id/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.youtube.com/@rakatria4923"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=rhmatzeka&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22d3ee,55:0f766e,100:020617" width="100%" alt="Footer decoration" />
+
+</div>
