@@ -25,6 +25,10 @@ I build modern web applications and explore the intersection of **Web3, AI, and 
 <img src="https://img.shields.io/badge/Building-Web3-0891b2?style=flat-square" alt="Web3 builder" />
 <img src="https://img.shields.io/badge/Exploring-AI-7c3aed?style=flat-square" alt="Exploring AI" />
 
+<br /><br />
+
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+
 </div>
 
 ## Technologies & Tools
