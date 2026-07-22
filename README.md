@@ -12,7 +12,7 @@
 
 </div>
 
-## `> whoami`
+## About Me
 
 I'm **Rahmat**, an Indonesia-based developer focused on building end-to-end digital products. My repositories span production-minded web apps, information systems, mobile experiments, smart contracts, and AI prototypes.
 
@@ -22,7 +22,7 @@ I'm **Rahmat**, an Indonesia-based developer focused on building end-to-end digi
 - Interested in **AI agents, generative interfaces, computer vision, and on-chain applications**
 - Open to collaboration on ambitious **full-stack, Web3, and AI products**
 
-## `> stack --list`
+## Technologies & Tools
 
 <div align="center">
 
@@ -40,38 +40,32 @@ I'm **Rahmat**, an Indonesia-based developer focused on building end-to-end digi
 
 </div>
 
-## `> projects --featured`
+## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/rhmatzeka/TaniinPlaytoEarn"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=TaniinPlaytoEarn&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="Taniin Play to Earn repository" /></a>
-<a href="https://github.com/rhmatzeka/RekaSolana"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=RekaSolana&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="Reka Solana repository" /></a>
-<a href="https://github.com/rhmatzeka/VibeDesignAI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=VibeDesignAI&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="VibeDesign AI repository" /></a>
-<a href="https://github.com/rhmatzeka/AppAbsensiSDN1Bintaro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rhmatzeka&repo=AppAbsensiSDN1Bintaro&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="School attendance application repository" /></a>
-
-</div>
-
-| Project | What it explores | Live |
+| Project | Description | Links |
 | :--- | :--- | :---: |
-| **Taniin Play-to-Earn** | A Web3 game experience connecting gameplay and digital ownership | [Launch](https://taniin.rahmateka.my.id) |
-| **RekaSolana** | A Solana dApp workspace with an Anchor program and a modern web client | [Launch](https://reka-solana-web.vercel.app) |
-| **VibeDesign AI** | An AI-inspired design experience built with Next.js and motion-driven UI | [Launch](https://vibe-design-ai.vercel.app) |
-| **SDN 1 Bintaro Attendance** | A full-stack school attendance system using Next.js, Prisma, and authentication | [Launch](https://absensisdnbintaro01.com) |
-| **Base Mini App** | An on-chain mini app using OnchainKit, Farcaster SDK, wagmi, and viem | [Launch](https://base-miniapp-one.vercel.app) |
-| **Banbuk Store** | A deployed store and inventory-oriented business application | [Launch](https://gudangbanbukscm.web.id) |
-
-## `> github --analytics`
+| **Taniin Play-to-Earn** | Web3 game experience connecting gameplay with digital ownership. | [Repository](https://github.com/rhmatzeka/TaniinPlaytoEarn) · [Live Demo](https://taniin.rahmateka.my.id) |
+| **RekaSolana** | Solana dApp workspace featuring an Anchor program and modern web client. | [Repository](https://github.com/rhmatzeka/RekaSolana) · [Live Demo](https://reka-solana-web.vercel.app) |
+| **VibeDesign AI** | AI-inspired design experience built with Next.js and motion-driven UI. | [Repository](https://github.com/rhmatzeka/VibeDesignAI) · [Live Demo](https://vibe-design-ai.vercel.app) |
+| **SDN 1 Bintaro Attendance** | Full-stack attendance system powered by Next.js, Prisma, and authentication. | [Repository](https://github.com/rhmatzeka/AppAbsensiSDN1Bintaro) · [Live Demo](https://absensisdnbintaro01.com) |
+| **Base Mini App** | On-chain mini app using OnchainKit, Farcaster SDK, wagmi, and viem. | [Repository](https://github.com/rhmatzeka/base-miniapp) · [Live Demo](https://base-miniapp-one.vercel.app) |
+| **Banbuk Store** | Store and inventory-oriented application built for a real business workflow. | [Repository](https://github.com/rhmatzeka/BanbukStore) · [Live Demo](https://gudangbanbukscm.web.id) |
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhmatzeka&show_icons=true&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&bg_color=0d1117" alt="Rahmat's GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rhmatzeka&hide_border=true&background=0D1117&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Rahmat's GitHub contribution streak" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhmatzeka&layout=compact&langs_count=10&hide_border=true&title_color=22d3ee&text_color=94a3b8&bg_color=0d1117" alt="Most used languages" />
+<a href="https://github.com/rhmatzeka?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 
 </div>
 
-## `> contribution --play`
+## GitHub Activity
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=rhmatzeka&hide_border=true&background=0D1117&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Rahmat's GitHub contribution streak" />
+
+</div>
+
+## Contribution Journey
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhmatzeka/rhmatzeka/output/pacman-contribution-graph-dark.svg">
