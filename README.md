@@ -14,13 +14,18 @@
 
 ## About Me
 
-I'm **Rahmat**, an Indonesia-based developer focused on building end-to-end digital products. My repositories span production-minded web apps, information systems, mobile experiments, smart contracts, and AI prototypes.
+<div align="center">
 
-- Currently building with **TypeScript, Next.js, React, and modern Web3 tooling**
-- Exploring **Solana, Base, Avalanche, Ethereum standards, and Algorand**
-- Experienced in translating real-world needs into attendance, inventory, education, and business systems
-- Interested in **AI agents, generative interfaces, computer vision, and on-chain applications**
-- Open to collaboration on ambitious **full-stack, Web3, and AI products**
+I'm **Rahmat**, a developer from Indonesia who turns ideas into useful digital products.<br />
+I build modern web applications and explore the intersection of **Web3, AI, and real-world solutions**.
+
+<br />
+
+<img src="https://img.shields.io/badge/Focus-Full--Stack-0f766e?style=flat-square" alt="Full-stack focus" />
+<img src="https://img.shields.io/badge/Building-Web3-0891b2?style=flat-square" alt="Web3 builder" />
+<img src="https://img.shields.io/badge/Exploring-AI-7c3aed?style=flat-square" alt="Exploring AI" />
+
+</div>
 
 ## Technologies & Tools
 
