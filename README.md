@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:0f766e,100:22d3ee&text=RAHMAT%20EKA%20SATRIA&fontColor=f8fafc&fontSize=40&fontAlignY=38&desc=FULL-STACK%20%7C%20WEB3%20%7C%20AI%20BUILDER&descAlignY=58&descSize=15&animation=twinkling" width="100%" alt="Rahmat Eka Satria banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f766e,100:22d3ee&text=RAHMAT%20EKA%20SATRIA&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=FULL-STACK%20%7C%20WEB3%20%7C%20AI%20BUILDER&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Rahmat Eka Satria banner" />
 
 <a href="https://rahmateka.my.id"><img src="https://img.shields.io/badge/Portfolio-rahmateka.my.id-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/rahmatekasatria/"><img src="https://img.shields.io/badge/LinkedIn-Rahmat_Eka_Satria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:matsganz@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br />
+<br /><br />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=Building+useful+products+from+idea+to+deployment;Exploring+Web3+across+Solana%2C+EVM%2C+and+Algorand;Turning+AI+experiments+into+interactive+experiences" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&lines=Building+useful+products%2C+from+idea+to+deployment.;Exploring+Web3+across+Solana%2C+EVM%2C+and+Algorand.;Turning+AI+experiments+into+interactive+experiences." alt="Typing introduction" />
 
 </div>
 
@@ -18,6 +18,8 @@
 
 I'm **Rahmat**, a developer from Indonesia who turns ideas into useful digital products.<br />
 I build modern web applications and explore the intersection of **Web3, AI, and real-world solutions**.
+
+<br />
 
 <img src="https://img.shields.io/badge/Focus-Full--Stack-0f766e?style=flat-square" alt="Full-stack focus" />
 <img src="https://img.shields.io/badge/Building-Web3-0891b2?style=flat-square" alt="Web3 builder" />
@@ -29,63 +31,30 @@ I build modern web applications and explore the intersection of **Web3, AI, and 
 
 <div align="center">
 
-**Frontend & Core**
+**Core**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&theme=dark&perline=6" alt="Frontend and core technology stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind&theme=dark" alt="Core technology stack" />
 
-**Backend & Data**
+**Web3 & Backend**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,kotlin,prisma&theme=dark&perline=6" alt="Backend technology stack" />
-
-**Web3 & Database**
-
-<img src="https://skillicons.dev/icons?i=solidity,rust,mysql,postgres&theme=dark&perline=4" alt="Web3 and database technology stack" />
+<img src="https://skillicons.dev/icons?i=solidity,rust,php,laravel,python,java,kotlin,mysql,postgres,prisma&theme=dark" alt="Web3 and backend technology stack" />
 
 **Tools & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,figma&theme=dark&perline=6" alt="Tools and cloud stack" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws,gcp,figma&theme=dark" alt="Tools and cloud stack" />
 
 </div>
 
 ## Featured Projects
 
-### Taniin Play-to-Earn
-Web3 game experience connecting gameplay with digital ownership.<br />
-[View Repository](https://github.com/rhmatzeka/TaniinPlaytoEarn) · [Open Live Demo](https://taniin.rahmateka.my.id)
-
----
-
-### RekaSolana
-Solana dApp workspace featuring an Anchor program and modern web client.<br />
-[View Repository](https://github.com/rhmatzeka/RekaSolana) · [Open Live Demo](https://reka-solana-web.vercel.app)
-
----
-
-### VibeDesign AI
-AI-inspired design experience built with Next.js and motion-driven UI.<br />
-[View Repository](https://github.com/rhmatzeka/VibeDesignAI) · [Open Live Demo](https://vibe-design-ai.vercel.app)
-
----
-
-### SDN 1 Bintaro Attendance
-Full-stack attendance system powered by Next.js, Prisma, and authentication.<br />
-[View Repository](https://github.com/rhmatzeka/AppAbsensiSDN1Bintaro) · [Open Live Demo](https://absensisdnbintaro01.com)
-
-<details>
-<summary><b>View more projects</b></summary>
-<br />
-
-**Base Mini App**<br />
-On-chain mini app using OnchainKit, Farcaster SDK, wagmi, and viem.<br />
-[View Repository](https://github.com/rhmatzeka/base-miniapp) · [Open Live Demo](https://base-miniapp-one.vercel.app)
-
-<br />
-
-**Banbuk Store**<br />
-Store and inventory-oriented application built for a real business workflow.<br />
-[View Repository](https://github.com/rhmatzeka/BanbukStore) · [Open Live Demo](https://gudangbanbukscm.web.id)
-
-</details>
+| Project | Description | Links |
+| :--- | :--- | :---: |
+| **Taniin Play-to-Earn** | Web3 game experience connecting gameplay with digital ownership. | [Repository](https://github.com/rhmatzeka/TaniinPlaytoEarn) · [Live Demo](https://taniin.rahmateka.my.id) |
+| **RekaSolana** | Solana dApp workspace featuring an Anchor program and modern web client. | [Repository](https://github.com/rhmatzeka/RekaSolana) · [Live Demo](https://reka-solana-web.vercel.app) |
+| **VibeDesign AI** | AI-inspired design experience built with Next.js and motion-driven UI. | [Repository](https://github.com/rhmatzeka/VibeDesignAI) · [Live Demo](https://vibe-design-ai.vercel.app) |
+| **SDN 1 Bintaro Attendance** | Full-stack attendance system powered by Next.js, Prisma, and authentication. | [Repository](https://github.com/rhmatzeka/AppAbsensiSDN1Bintaro) · [Live Demo](https://absensisdnbintaro01.com) |
+| **Base Mini App** | On-chain mini app using OnchainKit, Farcaster SDK, wagmi, and viem. | [Repository](https://github.com/rhmatzeka/base-miniapp) · [Live Demo](https://base-miniapp-one.vercel.app) |
+| **Banbuk Store** | Store and inventory-oriented application built for a real business workflow. | [Repository](https://github.com/rhmatzeka/BanbukStore) · [Live Demo](https://gudangbanbukscm.web.id) |
 
 <div align="center">
 
