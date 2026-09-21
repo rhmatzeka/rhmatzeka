@@ -1,22 +1,28 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Hello, I'm Rahmat Eka Satria. Web3, AI agents and fullstack, from Indonesia.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Hello, I'm Rahmat Eka Satria. Web3, AI agents, fullstack. Informatics at Universitas Pamulang, Indonesia.">
 </picture>
 
 <br />
 
 I design and build software end to end: the contract, the backend, and the interface people actually touch.
 
-Lately I work where Web3 meets AI agents, on agents that can hold value, earn a reputation, and be trusted with a transaction. The rest of my time goes to plain, useful apps for schools, shops, and local communities.
-
-I study Informatics at Universitas Pamulang, where I'm writing my thesis on tamper-proof digital certificates anchored on-chain with Merkle trees.
+Lately I work where Web3 meets AI agents, on agents that can hold value, earn a reputation, and be trusted with a transaction. The rest of my time goes to plain, useful apps for schools, shops, and local communities. My thesis is about tamper-proof digital certificates anchored on-chain with Merkle trees.
 
 <br />
 
-**Stack** &nbsp;·&nbsp; TypeScript, React, Next.js, Svelte, Solidity, Rust, Python, Laravel, Flutter<br />
-**Chains** &nbsp;·&nbsp; Monad, Base, Solana, Ethereum, Avalanche, Algorand<br />
-**Setup** &nbsp;·&nbsp; Debian, Hyprland, Neovim, Obsidian
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img src="./assets/stack-light.svg" width="100%" alt="Tech stack: TypeScript, React, Next.js, Svelte, Tailwind, Node.js, Bun, Solidity, Rust, Python, Laravel, PHP, Flutter, Kotlin, PostgreSQL, Prisma, Docker, Git">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg">
+  <img src="./assets/toolbox-light.svg" width="100%" alt="Ships on Monad, Base, Solana, Ethereum, Avalanche, Algorand. Daily driver: Debian, Hyprland, Neovim, Ghostty, Obsidian, Linux.">
+</picture>
 
 <br />
 
@@ -28,4 +34,8 @@ I study Informatics at Universitas Pamulang, where I'm writing my thesis on tamp
 
 <br />
 
-[rahmateka.my.id](https://rahmateka.my.id) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rahmatekasatria/) &nbsp;·&nbsp; [Email](mailto:matsganz@gmail.com) &nbsp;·&nbsp; [Telegram](https://t.me/luwakwhitecofeee) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/rhmat.dev/)
+<a href="https://rahmateka.my.id"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/rahmatekasatria/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>
+<a href="mailto:matsganz@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email"></a>
+<a href="https://t.me/luwakwhitecofeee"><img src="./assets/btn-telegram.svg" height="46" alt="Telegram"></a>
+<a href="https://www.instagram.com/rhmat.dev/"><img src="./assets/btn-instagram.svg" height="46" alt="Instagram"></a>

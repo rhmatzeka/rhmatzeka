@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="84" viewBox="0 0 186 84" role="img" aria-label="EMAIL"><style>
+.card{animation:slam .7s cubic-bezier(.2,.9,.3,1.2) both}
+@keyframes slam{from{transform:translate(12px,12px)}to{transform:none}}
+.pop{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .55s cubic-bezier(.3,1.5,.5,1) forwards}
+@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:none}}
+.press{animation:press 7s ease-in-out infinite}
+@keyframes press{0%,6%,100%{transform:none}2%,3%{transform:translate(6px,6px)}}
+@media (prefers-reduced-motion:reduce){.card,.pop,.press,.rise,.hl,.fade,.spin,.nudge{animation:none!important;opacity:1!important;transform:none!important}}
+.nudge{animation:nudge 2.4s ease-in-out infinite}
+    @keyframes nudge{0%,70%,100%{transform:none}80%{transform:translate(4px,-4px)}}</style><rect x="10" y="10" width="174" height="72" rx="14" fill="#111111"/><rect x="3" y="3" width="174" height="72" rx="14" fill="#FF90BC" stroke="#111111" stroke-width="4"/><path fill="#111111" d="M30.98 49.5V28.5H44.48V32.1H34.94V37.11H43.64V40.71H34.94V45.9H44.66V49.5ZM47.6 49.5V28.5H54.95L58.580000000000005 46.8H59.120000000000005L62.75 28.5H70.10000000000001V49.5H66.26V31.41H65.72L62.120000000000005 49.5H55.580000000000005L51.980000000000004 31.41H51.440000000000005V49.5ZM72.62 49.5 78.14 28.5H85.03999999999999L90.56 49.5H86.47999999999999L85.34 44.88H77.84L76.7 49.5ZM78.77 41.22H84.41L81.86 30.990000000000002H81.32ZM93.08 49.5V28.5H97.03999999999999V49.5ZM101.0 49.5V28.5H104.96V45.9H114.56V49.5Z"/><g class="nudge"><path d="M128.28 45.0 l18 -18 M132.28 27.0 h14 v14" fill="none" stroke="#111111" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
