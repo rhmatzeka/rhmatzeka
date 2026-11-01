@@ -14,24 +14,54 @@ I build software end to end, from smart contracts to the interface people actual
 
 ### Open source
 
-Merged pull requests in projects I use and learn from:
+When a tool I use has a bug, I try to fix it upstream instead of working around it. That got my first patches into [Hyperledger Fabric](https://github.com/hyperledger/fabric/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged), where I fixed a peer crash in gossip discovery, and into [Fabric-X](https://github.com/hyperledger/fabric-x-orderer/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged). I've sent 9 pull requests to AMD's [GAIA](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged) and 11 to the XSS scanner [Dalfox](https://github.com/hahwul/dalfox/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged), and one change to [gortex](https://github.com/zzet/gortex/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged) brought its indexer's peak memory down from 968 MB to 503 MB. Smaller fixes went into [viem](https://github.com/wevm/viem/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged), [repowise](https://github.com/repowise-dev/repowise/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged) and [ECC](https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged).
 
-- **[Hyperledger Fabric](https://github.com/hyperledger/fabric/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)** and **[Fabric-X Orderer](https://github.com/hyperledger/fabric-x-orderer/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)**: a peer crash fix in gossip discovery, consistent node startup logs
-- **[AMD GAIA](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)**: 9 PRs of docs, tests and cleanup for AMD's local AI agent framework
-- **[Dalfox](https://github.com/hahwul/dalfox/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)**: 11 PRs to the XSS scanner, from vulnerable-library detection to tests and docs
-- **[gortex](https://github.com/zzet/gortex/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)**: cut the code-graph indexer's vector-plan peak memory from 968 MB to 503 MB
-- **[viem](https://github.com/wevm/viem/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)**, **[repowise](https://github.com/repowise-dev/repowise/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)**, **[ECC](https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3Arhmatzeka+is%3Amerged)**
+### Things I've built
 
-### Projects
-
-| Project | What it is |
-|---|---|
-| [Taniin](https://github.com/rhmatzeka/TaniinPlaytoEarn) · [play](https://taniin.rahmateka.my.id) | Pixel farming game in Flutter and Flame with Web3 rewards: buy land, plant, harvest, sell |
-| [AgentBond](https://github.com/rhmatzeka/AgentBond) · [live](https://agentbond.rahmateka.my.id) | Trust and risk layer for agent-to-agent payments, with reports anchored on Base |
-| [PawnPool](https://github.com/rhmatzeka/ChessStake) · [live](https://pawnpool.rahmateka.my.id) | AI chess arena where the audience bets on the next piece to move (Next.js, Solidity) |
-| [MonadWishes](https://github.com/rhmatzeka/MonadWishes) · [live](https://monadwishes.rahmateka.my.id) | Birthday gift vault on Monad: pooled MON earns staking yield, then an on-chain NFT guestbook |
-| [FloodPool](https://github.com/rhmatzeka/floodpool) | Community flood fund: ESP32 water-level sensors trigger payouts from a smart contract |
-| [dotfile](https://github.com/rhmatzeka/dotfile) · [site](https://dotfiles.rahmateka.my.id) | One-command Linux setup: Hyprland + Caelestia, Neovim, Ghostty, zsh, tmux |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rhmatzeka/TaniinPlaytoEarn"><img src="https://raw.githubusercontent.com/rhmatzeka/TaniinPlaytoEarn/main/docs/images/taniin-gameplay.png" alt="Taniin screenshot"></a>
+<br><b><a href="https://github.com/rhmatzeka/TaniinPlaytoEarn">Taniin</a></b><br>
+A pixel farming game I made with Flutter and Flame. You plant, harvest and sell with other players, and there is an AI farmer who helps out. Runs in the browser and on Android.<br>
+<a href="https://taniin.rahmateka.my.id">Try it live</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/rhmatzeka/ChessStake"><img src="https://raw.githubusercontent.com/rhmatzeka/ChessStake/main/docs/images/preview.png" alt="PawnPool screenshot"></a>
+<br><b><a href="https://github.com/rhmatzeka/ChessStake">PawnPool</a></b><br>
+Chess where nobody plays alone. The crowd bets on which piece should move, and an AI picks the best legal move for that piece.<br>
+<a href="https://pawnpool.rahmateka.my.id">Try it live</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rhmatzeka/ITSME"><img src="https://raw.githubusercontent.com/rhmatzeka/ITSME/main/docs/images/preview.png" alt="Desa Mapporto screenshot"></a>
+<br><b><a href="https://github.com/rhmatzeka/ITSME">Desa Mapporto</a></b><br>
+My portfolio, as a village you walk around in. Each house opens a different part of my work.<br>
+<a href="https://www.rahmateka.my.id">Try it live</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/rhmatzeka/AgentBond"><img src="https://raw.githubusercontent.com/rhmatzeka/AgentBond/main/docs/images/preview.png" alt="AgentBond screenshot"></a>
+<br><b><a href="https://github.com/rhmatzeka/AgentBond">AgentBond</a></b><br>
+Think of it as a credit check for AI agents. Before one agent pays another, it gets a trust score and a fair price.<br>
+<a href="https://agentbond.rahmateka.my.id">Try it live</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rhmatzeka/MonadWishes"><img src="https://raw.githubusercontent.com/rhmatzeka/MonadWishes/main/docs/images/preview.png" alt="MonadWishes screenshot"></a>
+<br><b><a href="https://github.com/rhmatzeka/MonadWishes">MonadWishes</a></b><br>
+Friends chip in for a birthday gift on Monad. The money earns yield until the day, and the wishes stay on-chain as an NFT guestbook.<br>
+<a href="https://monadwishes.rahmateka.my.id">Try it live</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/rhmatzeka/dotfile"><img src="https://raw.githubusercontent.com/rhmatzeka/dotfile/main/docs/screenshots/launcher.jpg" alt="dotfile screenshot"></a>
+<br><b><a href="https://github.com/rhmatzeka/dotfile">dotfile</a></b><br>
+The first thing I run on a fresh Linux install. One command sets up Hyprland, Neovim, Ghostty and the rest of my desktop.<br>
+<a href="https://dotfiles.rahmateka.my.id">Try it live</a>
+</td>
+</tr>
+</table>
 
 <a href="https://rahmateka.my.id"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/rahmatekasatria/"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
