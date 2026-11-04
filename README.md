@@ -27,9 +27,9 @@ A pixel farming game I made with Flutter and Flame. You plant, harvest and sell 
 <a href="https://taniin.rahmateka.my.id">Try it live</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/rhmatzeka/ChessStake"><img src="https://raw.githubusercontent.com/rhmatzeka/ChessStake/main/docs/images/preview.png" alt="PawnPool screenshot"></a>
-<br><b><a href="https://github.com/rhmatzeka/ChessStake">PawnPool</a></b><br>
-Chess where nobody plays alone. The crowd bets on which piece should move, and an AI picks the best legal move for that piece.<br>
+<a href="https://github.com/rhmatzeka/pawnpool"><img src="https://raw.githubusercontent.com/rhmatzeka/pawnpool/main/docs/images/preview.png" alt="PawnPool screenshot"></a>
+<br><b><a href="https://github.com/rhmatzeka/pawnpool">PawnPool</a></b><br>
+Chess where nobody plays alone. The whole crowd plays White against an AI Boss and picks one of three moves every 15 seconds. It is free to play, and sponsors put up the prizes.<br>
 <a href="https://pawnpool.rahmateka.my.id">Try it live</a>
 </td>
 </tr>
