@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-light.svg">
-  <img src="./assets/ascii-light.svg" align="right" width="33%" alt="ASCII art portrait of Rahmat Eka Satria">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/portrait-light.svg">
+  <img src="./assets/portrait-light.svg" align="right" width="33%" alt="ASCII art portrait of Rahmat Eka Satria">
 </picture>
 
 ### Hi, I'm Rahmat
